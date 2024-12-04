@@ -1,0 +1,47 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Tiago",
+      "email": "ani@mal.com",
+      "senha": "auau123"
+    }
+  ],
+  "animais": [
+    {
+      "nome": "Husky Siberiano",
+      "raca": "Cachorro",
+      "vacinado": "sim",
+      "imagemUrl": "https://blog-static.petlove.com.br/wp-content/uploads/2018/04/husky.png",
+      "id": "1"
+    },
+    {
+      "nome": "Lubb",
+      "raca": "Gato",
+      "vacinado": "sim",
+      "imagemUrl": "https://cdn0.peritoanimal.com.br/pt/razas/7/2/6/gato-savannah_627_0_orig.jpg",
+      "id": "019f"
+    },
+    {
+      "id": "9a65",
+      "nome": "Cavalo Bretão",
+      "raca": "animal",
+      "vacinado": "sim",
+      "imagemUrl": "https://blog4.mfrural.com.br/wp-content/uploads/2022/12/cavalo-bretao.jpg"
+    }
+  ],
+  "raca": [
+    {
+      "id": "1",
+      "nome": "Cachorro"
+    },
+    {
+      "id": "2",
+      "nome": "Gato"
+    },
+    {
+      "id": "3",
+      "nome": "Cavalo"
+    }
+  ]
+}
